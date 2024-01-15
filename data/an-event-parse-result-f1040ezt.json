@@ -1,0 +1,2582 @@
+{
+  "status": {
+    "code": 200,
+    "message": "OK"
+  },
+  "Pages": [
+    {
+      "Width": 38.248,
+      "Height": 49.498,
+      "Texts": [
+        {
+          "x": 2,
+          "y": 2.572,
+          "w": 2.638,
+          "text": "Form"
+        },
+        {
+          "x": 2,
+          "y": 3.4749999999999996,
+          "w": 3.64,
+          "text": "1040EZ"
+        },
+        {
+          "x": 6.95,
+          "y": 1.823,
+          "w": 22.188,
+          "text": "Department of the Treasury—Internal Revenue Service"
+        },
+        {
+          "x": 6.95,
+          "y": 2.639,
+          "w": 15.26,
+          "text": "Income Tax Return for Single and"
+        },
+        {
+          "x": 6.95,
+          "y": 3.452,
+          "w": 14.96,
+          "text": "Joint Filers With No Dependents"
+        },
+        {
+          "x": 18.17,
+          "y": 3.452,
+          "w": 1.63,
+          "text": "(99)"
+        },
+        {
+          "x": 20.9,
+          "y": 3.436,
+          "w": 2.4,
+          "text": "2011"
+        },
+        {
+          "x": 30.497,
+          "y": 3.4560000000000004,
+          "w": 8.583,
+          "text": "OMB No. 1545-0074"
+        },
+        {
+          "x": 2.25,
+          "y": 4.169,
+          "w": 11.632,
+          "text": "Your first name and initial"
+        },
+        {
+          "x": 13.5,
+          "y": 4.18,
+          "w": 4.947,
+          "text": "Last name"
+        },
+        {
+          "x": 29.25,
+          "y": 4.17,
+          "w": 13.646,
+          "text": "Your social security number"
+        },
+        {
+          "x": 2.25,
+          "y": 5.657,
+          "w": 20.56,
+          "text": "If a joint return, spouse’s first name and initial"
+        },
+        {
+          "x": 13.5,
+          "y": 5.656,
+          "w": 4.947,
+          "text": "Last name"
+        },
+        {
+          "x": 29.25,
+          "y": 5.654,
+          "w": 15.776,
+          "text": "Spouse’s social security number"
+        },
+        {
+          "x": 29.137,
+          "y": 7.536,
+          "w": 1,
+          "text": "▲"
+        },
+        {
+          "x": 30.71,
+          "y": 7.335000000000001,
+          "w": 9.946,
+          "text": "Make sure the SSN(s)"
+        },
+        {
+          "x": 31.043,
+          "y": 7.859999999999999,
+          "w": 8.148,
+          "text": "above are correct."
+        },
+        {
+          "x": 2.25,
+          "y": 7.156,
+          "w": 34.157,
+          "text": "Home address (number and street). If you have a P.O. box, see instructions."
+        },
+        {
+          "x": 26.78,
+          "y": 7.148,
+          "w": 3.798,
+          "text": "Apt. no."
+        },
+        {
+          "x": 2.25,
+          "y": 8.647,
+          "w": 55.172,
+          "text": "City, town or post office, state, and ZIP code. If you have a foreign address, also complete spaces below (see instructions)."
+        },
+        {
+          "x": 2.25,
+          "y": 10.186,
+          "w": 20.9,
+          "text": "Foreign country name"
+        },
+        {
+          "x": 16.2,
+          "y": 10.189,
+          "w": 20.045,
+          "text": "Foreign province/county"
+        },
+        {
+          "x": 25.2,
+          "y": 10.187,
+          "w": 9.742,
+          "text": "Foreign postal code"
+        },
+        {
+          "x": 29.25,
+          "y": 8.722,
+          "w": 14.937,
+          "text": "Presidential Election Campaign"
+        },
+        {
+          "x": 29.125,
+          "y": 9.366,
+          "w": 18.502,
+          "text": "Check here if you, or your spouse if filing"
+        },
+        {
+          "x": 29.125,
+          "y": 9.866,
+          "w": 19.69,
+          "text": "jointly, want $3 to go to this fund. Checking"
+        },
+        {
+          "x": 29.125,
+          "y": 10.366,
+          "w": 17.814,
+          "text": "a box below will not change your tax or"
+        },
+        {
+          "x": 29.125,
+          "y": 10.865,
+          "w": 3.427,
+          "text": "refund."
+        },
+        {
+          "x": 32.539,
+          "y": 11.012,
+          "w": 2.149,
+          "text": "You"
+        },
+        {
+          "x": 34.287,
+          "y": 11.012,
+          "w": 3.575,
+          "text": "Spouse"
+        },
+        {
+          "x": 2,
+          "y": 12.007,
+          "w": 3.28,
+          "text": "Income"
+        },
+        {
+          "x": 2,
+          "y": 12.955,
+          "w": 3.138,
+          "text": "Attach"
+        },
+        {
+          "x": 2,
+          "y": 13.518,
+          "w": 5.776,
+          "text": "Form(s) W-2"
+        },
+        {
+          "x": 2,
+          "y": 14.08,
+          "w": 2.138,
+          "text": "here."
+        },
+        {
+          "x": 2,
+          "y": 15.096,
+          "w": 6.444,
+          "text": "Enclose, but do"
+        },
+        {
+          "x": 2,
+          "y": 15.626999999999999,
+          "w": 6.11,
+          "text": "not attach, any"
+        },
+        {
+          "x": 2,
+          "y": 16.158,
+          "w": 3.694,
+          "text": "payment."
+        },
+        {
+          "x": 7.119,
+          "y": 11.772,
+          "w": 0.75,
+          "text": "1"
+        },
+        {
+          "x": 8.3,
+          "y": 11.772,
+          "w": 32.052,
+          "text": "Wages, salaries, and tips. This should be shown in box 1 of your Form(s) W-2."
+        },
+        {
+          "x": 8.3,
+          "y": 12.459,
+          "w": 10.498,
+          "text": "Attach your Form(s) W-2."
+        },
+        {
+          "x": 29.175,
+          "y": 12.509,
+          "w": 0.75,
+          "text": "1"
+        },
+        {
+          "x": 7.119,
+          "y": 14.009,
+          "w": 0.75,
+          "text": "2"
+        },
+        {
+          "x": 8.3,
+          "y": 14.009,
+          "w": 29.663,
+          "text": "Taxable interest. If the total is over $1,500, you cannot use Form 1040EZ."
+        },
+        {
+          "x": 29.175,
+          "y": 14.009,
+          "w": 0.75,
+          "text": "2"
+        },
+        {
+          "x": 7.119,
+          "y": 15.509,
+          "w": 0.75,
+          "text": "3"
+        },
+        {
+          "x": 8.3,
+          "y": 15.572,
+          "w": 35.08,
+          "text": "Unemployment compensation and Alaska Permanent Fund dividends (see instructions)."
+        },
+        {
+          "x": 29.175,
+          "y": 15.509,
+          "w": 0.75,
+          "text": "3"
+        },
+        {
+          "x": 7.119,
+          "y": 17.009,
+          "w": 0.75,
+          "text": "4"
+        },
+        {
+          "x": 8.3,
+          "y": 17.009,
+          "w": 13.833,
+          "text": "Add lines 1, 2, and 3. This is your"
+        },
+        {
+          "x": 16.081,
+          "y": 17.009,
+          "w": 9.694,
+          "text": "adjusted gross income."
+        },
+        {
+          "x": 29.175,
+          "y": 17.009,
+          "w": 0.75,
+          "text": "4"
+        },
+        {
+          "x": 7.119,
+          "y": 17.772,
+          "w": 0.75,
+          "text": "5"
+        },
+        {
+          "x": 8.3,
+          "y": 17.772,
+          "w": 32.881,
+          "text": "If someone can claim you (or your spouse if a joint return) as a dependent, check"
+        },
+        {
+          "x": 8.3,
+          "y": 18.459,
+          "w": 31.854,
+          "text": "the applicable box(es) below and enter the amount from the worksheet on back."
+        },
+        {
+          "x": 9.2,
+          "y": 19.322,
+          "w": 1.778,
+          "text": "You"
+        },
+        {
+          "x": 13.25,
+          "y": 19.322,
+          "w": 3.001,
+          "text": "Spouse"
+        },
+        {
+          "x": 8.3,
+          "y": 20.022,
+          "w": 29.161,
+          "text": "If no one can claim you (or your spouse if a joint return), enter $9,500 if"
+        },
+        {
+          "x": 24.703,
+          "y": 20.022,
+          "w": 2.778,
+          "text": "single;"
+        },
+        {
+          "x": 26.266,
+          "y": 20.022,
+          "w": 0.25,
+          "text": ""
+        },
+        {
+          "x": 8.3,
+          "y": 20.709,
+          "w": 4.361,
+          "text": "$19,000 if"
+        },
+        {
+          "x": 10.753,
+          "y": 20.709,
+          "w": 9.5,
+          "text": "married filing jointly."
+        },
+        {
+          "x": 16.097,
+          "y": 20.709,
+          "w": 10.164,
+          "text": "See back for explanation."
+        },
+        {
+          "x": 29.175,
+          "y": 20.759,
+          "w": 0.75,
+          "text": "5"
+        },
+        {
+          "x": 7.119,
+          "y": 21.522,
+          "w": 0.75,
+          "text": "6"
+        },
+        {
+          "x": 8.3,
+          "y": 21.522,
+          "w": 26.829,
+          "text": "Subtract line 5 from line 4. If line 5 is larger than line 4, enter -0-."
+        },
+        {
+          "x": 8.3,
+          "y": 22.237,
+          "w": 5.028,
+          "text": "This is your"
+        },
+        {
+          "x": 11.128,
+          "y": 22.237,
+          "w": 6.666,
+          "text": "taxable income."
+        },
+        {
+          "x": 14.878,
+          "y": 22.237,
+          "w": 0.25,
+          "text": ""
+        },
+        {
+          "x": 27.65,
+          "y": 22.144,
+          "w": 1,
+          "text": "▶"
+        },
+        {
+          "x": 29.175,
+          "y": 22.259,
+          "w": 0.75,
+          "text": "6"
+        },
+        {
+          "x": 2,
+          "y": 23.452,
+          "w": 5.02,
+          "text": "Payments,"
+        },
+        {
+          "x": 2,
+          "y": 24.202,
+          "w": 3.82,
+          "text": "Credits,"
+        },
+        {
+          "x": 2,
+          "y": 24.952,
+          "w": 3.54,
+          "text": "and Tax"
+        },
+        {
+          "x": 7.119,
+          "y": 23.009,
+          "w": 0.75,
+          "text": "7"
+        },
+        {
+          "x": 8.3,
+          "y": 23.009,
+          "w": 23.302,
+          "text": "Federal income tax withheld from Form(s) W-2 and 1099."
+        },
+        {
+          "x": 29.175,
+          "y": 23.009,
+          "w": 0.75,
+          "text": "7"
+        },
+        {
+          "x": 7.119,
+          "y": 23.759,
+          "w": 0.5,
+          "text": "8"
+        },
+        {
+          "x": 7.4,
+          "y": 23.759,
+          "w": 0.75,
+          "text": "a"
+        },
+        {
+          "x": 8.3,
+          "y": 23.759,
+          "w": 12.415,
+          "text": "Earned income credit (EIC)"
+        },
+        {
+          "x": 15.283,
+          "y": 23.759,
+          "w": 7.11,
+          "text": "(see instructions)."
+        },
+        {
+          "x": 29.175,
+          "y": 23.759,
+          "w": 1.25,
+          "text": "8a"
+        },
+        {
+          "x": 7.4,
+          "y": 24.509,
+          "w": 0.806,
+          "text": "b"
+        },
+        {
+          "x": 8.3,
+          "y": 24.509,
+          "w": 13.164,
+          "text": "Nontaxable combat pay election."
+        },
+        {
+          "x": 21.294,
+          "y": 24.572,
+          "w": 1.25,
+          "text": "8b"
+        },
+        {
+          "x": 7.119,
+          "y": 25.259,
+          "w": 0.5,
+          "text": "9"
+        },
+        {
+          "x": 8.3,
+          "y": 25.322,
+          "w": 14.191,
+          "text": "Add lines 7 and 8a. These are your"
+        },
+        {
+          "x": 16.282,
+          "y": 25.322,
+          "w": 11.805,
+          "text": "total payments and credits."
+        },
+        {
+          "x": 27.65,
+          "y": 25.228,
+          "w": 1,
+          "text": "▶"
+        },
+        {
+          "x": 29.175,
+          "y": 25.259,
+          "w": 0.5,
+          "text": "9"
+        },
+        {
+          "x": 6.838,
+          "y": 26.028,
+          "w": 1,
+          "text": "10"
+        },
+        {
+          "x": 8.3,
+          "y": 26.022,
+          "w": 2.167,
+          "text": "Tax."
+        },
+        {
+          "x": 9.519,
+          "y": 26.022,
+          "w": 7.777,
+          "text": "Use the amount on"
+        },
+        {
+          "x": 13.894,
+          "y": 26.022,
+          "w": 5.306,
+          "text": "line 6 above"
+        },
+        {
+          "x": 16.878,
+          "y": 26.022,
+          "w": 15.11,
+          "text": "to find your tax in the tax table in the"
+        },
+        {
+          "x": 8.3,
+          "y": 26.709,
+          "w": 23.47,
+          "text": "instructions. Then, enter the tax from the table on this line."
+        },
+        {
+          "x": 28.894,
+          "y": 26.759,
+          "w": 1,
+          "text": "10"
+        },
+        {
+          "x": 6.838,
+          "y": 27.572,
+          "w": 1,
+          "text": "11"
+        },
+        {
+          "x": 7.4,
+          "y": 27.572,
+          "w": 0.75,
+          "text": "a"
+        },
+        {
+          "x": 8.3,
+          "y": 27.572,
+          "w": 28.525,
+          "text": "If line 9 is larger than line 10, subtract line 10 from line 9. This is your"
+        },
+        {
+          "x": 24.345,
+          "y": 27.572,
+          "w": 3.389,
+          "text": "refund."
+        },
+        {
+          "x": 8.3,
+          "y": 28.259,
+          "w": 15.135,
+          "text": "If Form 8888 is attached, check here"
+        },
+        {
+          "x": 16.813,
+          "y": 28.165,
+          "w": 1,
+          "text": "▶"
+        },
+        {
+          "x": 28.894,
+          "y": 28.259,
+          "w": 1.5,
+          "text": "11a"
+        },
+        {
+          "x": 2,
+          "y": 27.796,
+          "w": 3.12,
+          "text": "Refund"
+        },
+        {
+          "x": 2,
+          "y": 28.633,
+          "w": 6.471,
+          "text": "Have it directly"
+        },
+        {
+          "x": 2,
+          "y": 29.133,
+          "w": 6.11,
+          "text": "deposited! See"
+        },
+        {
+          "x": 2,
+          "y": 29.633,
+          "w": 6.611,
+          "text": "instructions and"
+        },
+        {
+          "x": 2,
+          "y": 30.133,
+          "w": 6.389,
+          "text": "fill in 11b, 11c,"
+        },
+        {
+          "x": 2,
+          "y": 30.634,
+          "w": 4.527,
+          "text": "and 11d or"
+        },
+        {
+          "x": 2,
+          "y": 31.134,
+          "w": 4.667,
+          "text": "Form 8888."
+        },
+        {
+          "x": 6.5,
+          "y": 29.519,
+          "w": 1,
+          "text": "▶"
+        },
+        {
+          "x": 7.4,
+          "y": 29.447,
+          "w": 0.806,
+          "text": "b"
+        },
+        {
+          "x": 8.3,
+          "y": 29.391,
+          "w": 6.528,
+          "text": "Routing number"
+        },
+        {
+          "x": 21.35,
+          "y": 29.353,
+          "w": 1,
+          "text": "▶"
+        },
+        {
+          "x": 21.788,
+          "y": 29.447,
+          "w": 0.25,
+          "text": ""
+        },
+        {
+          "x": 21.897,
+          "y": 29.447,
+          "w": 0.694,
+          "text": "c"
+        },
+        {
+          "x": 22.287,
+          "y": 29.447,
+          "w": 2.583,
+          "text": "Type:"
+        },
+        {
+          "x": 24.95,
+          "y": 29.467,
+          "w": 3.833,
+          "text": "Checking"
+        },
+        {
+          "x": 28.053,
+          "y": 29.467,
+          "w": 3.167,
+          "text": "Savings"
+        },
+        {
+          "x": 6.5,
+          "y": 31.019,
+          "w": 1,
+          "text": "▶"
+        },
+        {
+          "x": 7.4,
+          "y": 30.947,
+          "w": 0.806,
+          "text": "d"
+        },
+        {
+          "x": 8.3,
+          "y": 30.832,
+          "w": 6.693,
+          "text": "Account number"
+        },
+        {
+          "x": 2,
+          "y": 32.117,
+          "w": 4.06,
+          "text": "Amount"
+        },
+        {
+          "x": 2,
+          "y": 32.679,
+          "w": 3.92,
+          "text": "You Owe"
+        },
+        {
+          "x": 6.838,
+          "y": 32.022,
+          "w": 1.25,
+          "text": "12"
+        },
+        {
+          "x": 8.3,
+          "y": 32.029,
+          "w": 26.692,
+          "text": "If line 10 is larger than line 9, subtract line 9 from line 10. This is"
+        },
+        {
+          "x": 8.3,
+          "y": 32.738,
+          "w": 1.472,
+          "text": "the"
+        },
+        {
+          "x": 9.11,
+          "y": 32.738,
+          "w": 7.5,
+          "text": "amount you owe."
+        },
+        {
+          "x": 13.235,
+          "y": 32.738,
+          "w": 17.138,
+          "text": "For details on how to pay, see instructions."
+        },
+        {
+          "x": 22.66,
+          "y": 32.644,
+          "w": 0.25,
+          "text": ""
+        },
+        {
+          "x": 27.65,
+          "y": 32.644,
+          "w": 1,
+          "text": "▶"
+        },
+        {
+          "x": 28.894,
+          "y": 32.759,
+          "w": 1.25,
+          "text": "12"
+        },
+        {
+          "x": 2,
+          "y": 33.898,
+          "w": 5.18,
+          "text": "Third Party"
+        },
+        {
+          "x": 2,
+          "y": 34.585,
+          "w": 4.14,
+          "text": "Designee"
+        },
+        {
+          "x": 6.5,
+          "y": 33.607,
+          "w": 40.152,
+          "text": "Do you want to allow another person to discuss this return with the IRS (see instructions)?"
+        },
+        {
+          "x": 28.1,
+          "y": 33.588,
+          "w": 2.056,
+          "text": "Yes."
+        },
+        {
+          "x": 29.128,
+          "y": 33.588,
+          "w": 7.871,
+          "text": "Complete below."
+        },
+        {
+          "x": 34.85,
+          "y": 33.588,
+          "w": 1.352,
+          "text": "No"
+        },
+        {
+          "x": 6.5,
+          "y": 34.487,
+          "w": 4.693,
+          "text": "Designee’s"
+        },
+        {
+          "x": 6.5,
+          "y": 34.987,
+          "w": 4.666,
+          "text": "name"
+        },
+        {
+          "x": 8.541,
+          "y": 34.924,
+          "w": 1,
+          "text": "▶"
+        },
+        {
+          "x": 18.2,
+          "y": 34.487,
+          "w": 3,
+          "text": "Phone"
+        },
+        {
+          "x": 18.2,
+          "y": 34.987,
+          "w": 3,
+          "text": "no."
+        },
+        {
+          "x": 19.512,
+          "y": 34.924,
+          "w": 1,
+          "text": "▶"
+        },
+        {
+          "x": 26.3,
+          "y": 34.487,
+          "w": 9.277,
+          "text": "Personal identification"
+        },
+        {
+          "x": 26.3,
+          "y": 34.987,
+          "w": 9.332,
+          "text": "number (PIN)"
+        },
+        {
+          "x": 30.383,
+          "y": 34.924,
+          "w": 1,
+          "text": "▶"
+        },
+        {
+          "x": 2,
+          "y": 35.833,
+          "w": 2.56,
+          "text": "Sign"
+        },
+        {
+          "x": 2,
+          "y": 36.521,
+          "w": 2.08,
+          "text": "Here"
+        },
+        {
+          "x": 2,
+          "y": 37.435,
+          "w": 6.971,
+          "text": "Joint return? See"
+        },
+        {
+          "x": 2,
+          "y": 37.935,
+          "w": 4.917,
+          "text": "instructions."
+        },
+        {
+          "x": 2,
+          "y": 38.852,
+          "w": 6.664,
+          "text": "Keep a copy for"
+        },
+        {
+          "x": 2,
+          "y": 39.321,
+          "w": 5.276,
+          "text": "your records."
+        },
+        {
+          "x": 6.5,
+          "y": 35.656,
+          "w": 60.531,
+          "text": "Under penalties of perjury, I declare that I have examined this return and, to the best of my knowledge and belief, it is true, correct, and"
+        },
+        {
+          "x": 6.504,
+          "y": 36.094,
+          "w": 62.157,
+          "text": "accurately lists all amounts and sources of income I received during the tax year. Declaration of preparer (other than the taxpayer) is based"
+        },
+        {
+          "x": 6.501,
+          "y": 36.531,
+          "w": 26.688,
+          "text": "on all information of which the preparer has any knowledge."
+        },
+        {
+          "x": 5.6,
+          "y": 36.912,
+          "w": 0.892,
+          "text": "▲"
+        },
+        {
+          "x": 6.5,
+          "y": 37.188,
+          "w": 6.519,
+          "text": "Your signature"
+        },
+        {
+          "x": 18.45,
+          "y": 37.188,
+          "w": 2.093,
+          "text": "Date"
+        },
+        {
+          "x": 21.6,
+          "y": 37.17,
+          "w": 7.39,
+          "text": "Your occupation"
+        },
+        {
+          "x": 28.8,
+          "y": 37.156,
+          "w": 10.468,
+          "text": "Daytime phone number"
+        },
+        {
+          "x": 6.5,
+          "y": 38.687,
+          "w": 16.151,
+          "text": "Spouse’s signature. If a joint return,"
+        },
+        {
+          "x": 13.566,
+          "y": 38.687,
+          "w": 2.167,
+          "text": "both"
+        },
+        {
+          "x": 14.514,
+          "y": 38.687,
+          "w": 4.91,
+          "text": "must sign."
+        },
+        {
+          "x": 18.45,
+          "y": 38.687,
+          "w": 2.093,
+          "text": "Date"
+        },
+        {
+          "x": 21.6,
+          "y": 38.625,
+          "w": 9.465,
+          "text": "Spouse’s occupation"
+        },
+        {
+          "x": 28.8,
+          "y": 38.75,
+          "w": 18.318,
+          "text": "If the IRS sent you an Identity Protection"
+        },
+        {
+          "x": 28.8,
+          "y": 39.187,
+          "w": 5.834,
+          "text": "PIN, enter it"
+        },
+        {
+          "x": 28.8,
+          "y": 39.625,
+          "w": 6.482,
+          "text": "here (see inst.)"
+        },
+        {
+          "x": 2,
+          "y": 40.572,
+          "w": 2.388,
+          "text": "Paid"
+        },
+        {
+          "x": 2,
+          "y": 41.397,
+          "w": 4.445,
+          "text": "Preparer"
+        },
+        {
+          "x": 2,
+          "y": 42.222,
+          "w": 4.278,
+          "text": "Use Only"
+        },
+        {
+          "x": 5.85,
+          "y": 40.219,
+          "w": 12.502,
+          "text": "Print/Type preparer’s name"
+        },
+        {
+          "x": 13.25,
+          "y": 40.25,
+          "w": 9.315,
+          "text": "Preparer’s signature"
+        },
+        {
+          "x": 24.3,
+          "y": 40.25,
+          "w": 2.371,
+          "text": "Date"
+        },
+        {
+          "x": 28.8,
+          "y": 40.5,
+          "w": 6.447,
+          "text": "Check         if"
+        },
+        {
+          "x": 28.8,
+          "y": 40.937,
+          "w": 6.353,
+          "text": "self-employed"
+        },
+        {
+          "x": 31.950000000000003,
+          "y": 40.219,
+          "w": 2.481,
+          "text": "PTIN"
+        },
+        {
+          "x": 5.85,
+          "y": 41.875,
+          "w": 6.911,
+          "text": "Firm’s name"
+        },
+        {
+          "x": 8.874,
+          "y": 41.812,
+          "w": 1,
+          "text": "▶"
+        },
+        {
+          "x": 5.85,
+          "y": 42.625,
+          "w": 6.909,
+          "text": "Firm’s address"
+        },
+        {
+          "x": 8.873,
+          "y": 42.562,
+          "w": 1,
+          "text": "▶"
+        },
+        {
+          "x": 24.75,
+          "y": 41.875,
+          "w": 5.186,
+          "text": "Firm's EIN"
+        },
+        {
+          "x": 27.019,
+          "y": 41.812,
+          "w": 1,
+          "text": "▶"
+        },
+        {
+          "x": 24.75,
+          "y": 42.625,
+          "w": 4.835,
+          "text": "Phone no."
+        },
+        {
+          "x": 2,
+          "y": 43.341,
+          "w": 35.606,
+          "text": "For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see instructions."
+        },
+        {
+          "x": 23.636,
+          "y": 43.341,
+          "w": 7.055,
+          "text": "Cat. No. 11329W"
+        },
+        {
+          "x": 30.912,
+          "y": 43.321,
+          "w": 2.612,
+          "text": "Form"
+        },
+        {
+          "x": 32.055,
+          "y": 43.321,
+          "w": 3.798,
+          "text": "1040EZ"
+        },
+        {
+          "x": 34.429,
+          "y": 43.321,
+          "w": 3.02,
+          "text": "(2011)"
+        }
+      ],
+      "Fields": [
+        {
+          "id": "topmostSubform_0_Page1_0_Entity_0_p1_t4_0_",
+          "x": 2.25,
+          "y": 5.148,
+          "w": 11.25,
+          "value": "Bob"
+        },
+        {
+          "id": "topmostSubform_0_Page1_0_Entity_0_p1_t5_0_",
+          "x": 13.5,
+          "y": 5.173,
+          "w": 15.75,
+          "value": "Smith"
+        },
+        {
+          "id": "topmostSubform_0_Page1_0_Entity_0_p1_t11_0_",
+          "x": 29.25,
+          "y": 5.153,
+          "w": 6.75,
+          "value": "555555555"
+        },
+        {
+          "id": "p1_t6_0_",
+          "x": 2.25,
+          "y": 6.624,
+          "w": 11.25,
+          "value": null
+        },
+        {
+          "id": "p1_t7_0_",
+          "x": 13.5,
+          "y": 6.624,
+          "w": 15.75,
+          "value": null
+        },
+        {
+          "id": "p1_t14_0_",
+          "x": 29.25,
+          "y": 6.613,
+          "w": 6.75,
+          "value": null
+        },
+        {
+          "id": "p1_t8_0_",
+          "x": 2.25,
+          "y": 8.118,
+          "w": 23.85,
+          "value": null
+        },
+        {
+          "id": "p1_t9_0_",
+          "x": 26.1,
+          "y": 8.109,
+          "w": 3.15,
+          "value": null
+        },
+        {
+          "id": "p1_t10_0_",
+          "x": 2.25,
+          "y": 9.599,
+          "w": 27,
+          "value": null
+        },
+        {
+          "id": "topmostSubform_0_Page1_0_Entity_0_p1_t10_1_",
+          "x": 2.25,
+          "y": 11.184,
+          "w": 13.95,
+          "value": "Australia"
+        },
+        {
+          "id": "topmostSubform_0_Page1_0_Entity_0_p1_t10_2_",
+          "x": 16.2,
+          "y": 11.184,
+          "w": 9,
+          "value": "QLD"
+        },
+        {
+          "id": "topmostSubform_0_Page1_0_Entity_0_p1_t10_3_",
+          "x": 25.2,
+          "y": 11.187,
+          "w": 4.05,
+          "value": "4000"
+        },
+        {
+          "id": "topmostSubform_0_Page1_0_f1_014_0__0_",
+          "x": 30.15,
+          "y": 12.75,
+          "w": 4.5,
+          "value": "100000"
+        },
+        {
+          "id": "f1_015_0__0_",
+          "x": 34.65,
+          "y": 12.75,
+          "w": 1.35,
+          "value": null
+        },
+        {
+          "id": "f1_016_0__0_",
+          "x": 30.15,
+          "y": 14.25,
+          "w": 4.5,
+          "value": null
+        },
+        {
+          "id": "f1_017_0__0_",
+          "x": 34.65,
+          "y": 14.25,
+          "w": 1.35,
+          "value": null
+        },
+        {
+          "id": "f1_018_0__0_",
+          "x": 30.15,
+          "y": 15.75,
+          "w": 4.5,
+          "value": null
+        },
+        {
+          "id": "f1_019_0__0_",
+          "x": 34.65,
+          "y": 15.75,
+          "w": 1.35,
+          "value": null
+        },
+        {
+          "id": "f1_020_0__0_",
+          "x": 30.15,
+          "y": 17.25,
+          "w": 4.5,
+          "value": null
+        },
+        {
+          "id": "f1_021_0__0_",
+          "x": 34.65,
+          "y": 17.25,
+          "w": 1.35,
+          "value": null
+        },
+        {
+          "id": "f1_022_0__0_",
+          "x": 30.15,
+          "y": 21,
+          "w": 4.5,
+          "value": null
+        },
+        {
+          "id": "f1_023_0__0_",
+          "x": 34.65,
+          "y": 21,
+          "w": 1.35,
+          "value": null
+        },
+        {
+          "id": "f1_024_0__0_",
+          "x": 30.15,
+          "y": 22.5,
+          "w": 4.5,
+          "value": null
+        },
+        {
+          "id": "f1_025_0__0_",
+          "x": 34.65,
+          "y": 22.5,
+          "w": 1.35,
+          "value": null
+        },
+        {
+          "id": "f1_026_0__0_",
+          "x": 30.15,
+          "y": 23.25,
+          "w": 4.5,
+          "value": null
+        },
+        {
+          "id": "f1_027_0__0_",
+          "x": 34.65,
+          "y": 23.25,
+          "w": 1.35,
+          "value": null
+        },
+        {
+          "id": "f1_034_0__0_",
+          "x": 30.15,
+          "y": 24,
+          "w": 4.5,
+          "value": null
+        },
+        {
+          "id": "f1_035_0__0_",
+          "x": 34.65,
+          "y": 24,
+          "w": 1.35,
+          "value": null
+        },
+        {
+          "id": "f1_030_0__0_",
+          "x": 22.5,
+          "y": 24.75,
+          "w": 4.5,
+          "value": null
+        },
+        {
+          "id": "f1_031_0__0_",
+          "x": 27,
+          "y": 24.75,
+          "w": 1.35,
+          "value": null
+        },
+        {
+          "id": "f1_032_0__0_",
+          "x": 30.15,
+          "y": 25.5,
+          "w": 4.5,
+          "value": null
+        },
+        {
+          "id": "f1_033_0__0_",
+          "x": 34.65,
+          "y": 25.5,
+          "w": 1.35,
+          "value": null
+        },
+        {
+          "id": "f1_036_0__0_",
+          "x": 30.15,
+          "y": 27,
+          "w": 4.5,
+          "value": null
+        },
+        {
+          "id": "f1_037_0__0_",
+          "x": 34.65,
+          "y": 27,
+          "w": 1.35,
+          "value": null
+        },
+        {
+          "id": "f1_038_0__0_",
+          "x": 30.15,
+          "y": 28.5,
+          "w": 4.5,
+          "value": null
+        },
+        {
+          "id": "f1_039_0__0_",
+          "x": 34.65,
+          "y": 28.5,
+          "w": 1.35,
+          "value": null
+        },
+        {
+          "id": "f1_040_0__0_",
+          "x": 13.05,
+          "y": 29.625,
+          "w": 8.106,
+          "value": null
+        },
+        {
+          "id": "f1_040_0__1_",
+          "x": 13.05,
+          "y": 31.073,
+          "w": 15.321,
+          "value": null
+        },
+        {
+          "id": "f1_066_0__0_",
+          "x": 30.15,
+          "y": 33,
+          "w": 4.5,
+          "value": null
+        },
+        {
+          "id": "f1_067_0__0_",
+          "x": 34.65,
+          "y": 33,
+          "w": 1.35,
+          "value": null
+        },
+        {
+          "id": "f1_068_0__0_",
+          "x": 9.9,
+          "y": 35.25,
+          "w": 8.1,
+          "value": null
+        },
+        {
+          "id": "f1_069_0__0_",
+          "x": 20.7,
+          "y": 35.25,
+          "w": 5.4,
+          "value": null
+        },
+        {
+          "id": "f1_071_0__0_",
+          "x": 31.5,
+          "y": 35.152,
+          "w": 4.05,
+          "value": null
+        },
+        {
+          "id": "f1_076_0__0_",
+          "x": 21.6,
+          "y": 38.154,
+          "w": 7.2,
+          "value": null
+        },
+        {
+          "id": "f1_077_0__0_",
+          "x": 28.8,
+          "y": 38.125,
+          "w": 7.2,
+          "value": null
+        },
+        {
+          "id": "f1_079_0__0_",
+          "x": 21.6,
+          "y": 39.646,
+          "w": 7.2,
+          "value": null
+        },
+        {
+          "id": "f2_130_0_",
+          "x": 31.5,
+          "y": 39.75,
+          "w": 4.5,
+          "value": null
+        },
+        {
+          "id": "f1_078_0_",
+          "x": 5.85,
+          "y": 41.125,
+          "w": 7.2,
+          "value": null
+        },
+        {
+          "id": "f1_080_0_",
+          "x": 31.95,
+          "y": 41.125,
+          "w": 4.05,
+          "value": null
+        },
+        {
+          "id": "f1_081_0_",
+          "x": 9.9,
+          "y": 42,
+          "w": 14.85,
+          "value": null
+        },
+        {
+          "id": "f1_083_0_",
+          "x": 27.809,
+          "y": 42,
+          "w": 8.191,
+          "value": null
+        },
+        {
+          "id": "f1_082_0_",
+          "x": 9.9,
+          "y": 42.75,
+          "w": 14.85,
+          "value": null
+        },
+        {
+          "id": "f1_084_0_",
+          "x": 27.809,
+          "y": 42.75,
+          "w": 8.191,
+          "value": null
+        },
+        {
+          "id": "quad8",
+          "x": 19.036,
+          "y": 28.348,
+          "w": 3.229,
+          "value": null
+        }
+      ]
+    },
+    {
+      "Width": 38.248,
+      "Height": 49.498,
+      "Texts": [
+        {
+          "x": 2,
+          "y": 1.972,
+          "w": 9.078,
+          "text": "Form 1040EZ (2011)"
+        },
+        {
+          "x": 34.276,
+          "y": 2.009,
+          "w": 2.574,
+          "text": "Page"
+        },
+        {
+          "x": 35.403,
+          "y": 2.009,
+          "w": 0.834,
+          "text": "2"
+        },
+        {
+          "x": 2,
+          "y": 4.015,
+          "w": 6.28,
+          "text": "Use this form"
+        },
+        {
+          "x": 2,
+          "y": 4.89,
+          "w": 0.56,
+          "text": "if"
+        },
+        {
+          "x": 6.95,
+          "y": 3.572,
+          "w": 45.403,
+          "text": "• Your filing status is single or married filing jointly. If you are not sure about your filing status, see instructions."
+        },
+        {
+          "x": 6.95,
+          "y": 4.272,
+          "w": 48.536,
+          "text": "• You (and your spouse if married filing jointly) were under age 65 and not blind at the end of 2011. If you were born on"
+        },
+        {
+          "x": 6.95,
+          "y": 4.959,
+          "w": 27.244,
+          "text": "January 1, 1947, you are considered to be age 65 at the end of 2011."
+        },
+        {
+          "x": 6.95,
+          "y": 5.822,
+          "w": 32.958,
+          "text": "• You do not claim any dependents. For information on dependents, see Pub. 501."
+        },
+        {
+          "x": 6.95,
+          "y": 6.571,
+          "w": 21.292,
+          "text": "• Your taxable income (line 6) is less than $100,000."
+        },
+        {
+          "x": 6.95,
+          "y": 7.272,
+          "w": 49.625,
+          "text": "• You do not claim any adjustments to income. For information on adjustments to income, use TeleTax topics 451–453 and"
+        },
+        {
+          "x": 6.95,
+          "y": 7.959,
+          "w": 10.86,
+          "text": "455–458 (see instructions)."
+        },
+        {
+          "x": 6.95,
+          "y": 8.834,
+          "w": 51.117,
+          "text": "• The only tax credit you can claim is the earned income credit (EIC). The credit may give you a refund even if you do not owe"
+        },
+        {
+          "x": 6.95,
+          "y": 9.522,
+          "w": 49.523,
+          "text": "any tax. You do not need a qualifying child to claim the EIC. For information on credits, use TeleTax topics 601, 602, 607,"
+        },
+        {
+          "x": 6.95,
+          "y": 10.209,
+          "w": 16.804,
+          "text": "608, 610, 611, and 612 (see instructions)."
+        },
+        {
+          "x": 6.95,
+          "y": 11.147,
+          "w": 47.594,
+          "text": "• You had only wages, salaries, tips, taxable scholarship or fellowship grants, unemployment compensation, or Alaska"
+        },
+        {
+          "x": 6.95,
+          "y": 11.834,
+          "w": 50.69,
+          "text": "Permanent Fund dividends, and your taxable interest was not over $1,500. But if you earned tips, including allocated tips, that"
+        },
+        {
+          "x": 6.95,
+          "y": 12.522,
+          "w": 50.632,
+          "text": "are not included in box 5 and box 7 of your Form W-2, you may not be able to use Form 1040EZ (see instructions). If you are"
+        },
+        {
+          "x": 6.95,
+          "y": 13.209,
+          "w": 42.912,
+          "text": "planning to use Form 1040EZ for a child who received Alaska Permanent Fund dividends, see instructions."
+        },
+        {
+          "x": 2,
+          "y": 15.265,
+          "w": 6.28,
+          "text": "Filling in your"
+        },
+        {
+          "x": 2,
+          "y": 16.14,
+          "w": 2.68,
+          "text": "return"
+        },
+        {
+          "x": 6.95,
+          "y": 15.139,
+          "w": 46.686,
+          "text": "If you received a scholarship or fellowship grant or tax-exempt interest income, such as on municipal bonds, see the"
+        },
+        {
+          "x": 6.95,
+          "y": 15.826,
+          "w": 50.604,
+          "text": "instructions before filling in the form. Also, see the instructions if you received a Form 1099-INT showing federal income tax"
+        },
+        {
+          "x": 6.95,
+          "y": 16.514,
+          "w": 50.355,
+          "text": "withheld or if federal income tax was withheld from your unemployment compensation or Alaska Permanent Fund dividends."
+        },
+        {
+          "x": 2,
+          "y": 18.427,
+          "w": 4.584,
+          "text": "For tips on"
+        },
+        {
+          "x": 2,
+          "y": 19.114,
+          "w": 5.472,
+          "text": "how to avoid"
+        },
+        {
+          "x": 2,
+          "y": 19.802,
+          "w": 3.75,
+          "text": "common"
+        },
+        {
+          "x": 2,
+          "y": 20.489,
+          "w": 5.527,
+          "text": "mistakes, see"
+        },
+        {
+          "x": 2,
+          "y": 21.177,
+          "w": 4.917,
+          "text": "instructions."
+        },
+        {
+          "x": 6.95,
+          "y": 18.522,
+          "w": 51.327,
+          "text": "Remember, you must report all wages, salaries, and tips even if you do not get a Form W-2 from your employer. You must also"
+        },
+        {
+          "x": 6.95,
+          "y": 19.241,
+          "w": 49.66,
+          "text": "report all your taxable interest, including interest from banks, savings and loans, credit unions, etc., even if you do not get a"
+        },
+        {
+          "x": 6.95,
+          "y": 19.96,
+          "w": 7.166,
+          "text": "Form 1099-INT."
+        },
+        {
+          "x": 2,
+          "y": 24.265,
+          "w": 5.44,
+          "text": "Worksheet"
+        },
+        {
+          "x": 2,
+          "y": 25.14,
+          "w": 5.82,
+          "text": "for Line 5 —"
+        },
+        {
+          "x": 2,
+          "y": 26.015,
+          "w": 5.62,
+          "text": "Dependents"
+        },
+        {
+          "x": 2,
+          "y": 26.89,
+          "w": 6.5,
+          "text": "Who Checked"
+        },
+        {
+          "x": 2,
+          "y": 27.766,
+          "w": 5.64,
+          "text": "One or Both"
+        },
+        {
+          "x": 2,
+          "y": 28.641,
+          "w": 2.78,
+          "text": "Boxes"
+        },
+        {
+          "x": 2,
+          "y": 36.552,
+          "w": 6.775,
+          "text": "(keep a copy for"
+        },
+        {
+          "x": 2,
+          "y": 37.239,
+          "w": 5.359,
+          "text": "your records)"
+        },
+        {
+          "x": 6.95,
+          "y": 24.052,
+          "w": 44.493,
+          "text": "Use this worksheet to figure the amount to enter on line 5 if someone can claim you (or your spouse if married"
+        },
+        {
+          "x": 6.95,
+          "y": 24.677,
+          "w": 45.328,
+          "text": "filing jointly) as a dependent, even if that person chooses not to do so. To find out if someone can claim you as a"
+        },
+        {
+          "x": 6.95,
+          "y": 25.302,
+          "w": 10.193,
+          "text": "dependent, see Pub. 501."
+        },
+        {
+          "x": 6.95,
+          "y": 26.822,
+          "w": 1.222,
+          "text": "A."
+        },
+        {
+          "x": 7.637,
+          "y": 26.822,
+          "w": 14.721,
+          "text": "Amount, if any, from line 1 on front"
+        },
+        {
+          "x": 16.25,
+          "y": 26.822,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 17,
+          "y": 26.822,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 17.749,
+          "y": 26.822,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 18.499,
+          "y": 26.822,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 19.249,
+          "y": 26.822,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 19.999,
+          "y": 26.822,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 20.701,
+          "y": 26.822,
+          "w": 0.25,
+          "text": ""
+        },
+        {
+          "x": 21.8,
+          "y": 27.463,
+          "w": 0.564,
+          "text": "+"
+        },
+        {
+          "x": 24.378,
+          "y": 27.572,
+          "w": 2.75,
+          "text": "300.00"
+        },
+        {
+          "x": 26.3,
+          "y": 27.572,
+          "w": 4.694,
+          "text": "Enter total"
+        },
+        {
+          "x": 28.94,
+          "y": 27.572,
+          "w": 0.25,
+          "text": ""
+        },
+        {
+          "x": 29.05,
+          "y": 27.478,
+          "w": 1,
+          "text": "▶"
+        },
+        {
+          "x": 30.456,
+          "y": 27.572,
+          "w": 1.222,
+          "text": "A ."
+        },
+        {
+          "x": 6.95,
+          "y": 28.322,
+          "w": 1.167,
+          "text": "B."
+        },
+        {
+          "x": 7.606,
+          "y": 28.322,
+          "w": 12.083,
+          "text": "Minimum standard deduction"
+        },
+        {
+          "x": 14.75,
+          "y": 28.322,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 15.5,
+          "y": 28.322,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 16.25,
+          "y": 28.322,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 17,
+          "y": 28.322,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 17.749,
+          "y": 28.322,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 18.499,
+          "y": 28.322,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 19.249,
+          "y": 28.322,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 19.999,
+          "y": 28.322,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 20.749,
+          "y": 28.322,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 21.498,
+          "y": 28.322,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 22.248,
+          "y": 28.322,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 22.998,
+          "y": 28.322,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 23.748,
+          "y": 28.322,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 24.498,
+          "y": 28.322,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 25.248,
+          "y": 28.322,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 25.997,
+          "y": 28.322,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 26.747,
+          "y": 28.322,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 27.497,
+          "y": 28.322,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 28.247,
+          "y": 28.322,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 28.997,
+          "y": 28.322,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 29.746,
+          "y": 28.322,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 30.468,
+          "y": 28.322,
+          "w": 1.167,
+          "text": "B ."
+        },
+        {
+          "x": 6.95,
+          "y": 29.072,
+          "w": 1.222,
+          "text": "C."
+        },
+        {
+          "x": 7.637,
+          "y": 29.072,
+          "w": 3.888,
+          "text": "Enter the"
+        },
+        {
+          "x": 9.824,
+          "y": 29.072,
+          "w": 2.86,
+          "text": "larger"
+        },
+        {
+          "x": 11.433,
+          "y": 29.072,
+          "w": 9.526,
+          "text": "of line A or line B here"
+        },
+        {
+          "x": 17,
+          "y": 29.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 17.75,
+          "y": 29.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 18.5,
+          "y": 29.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 19.25,
+          "y": 29.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 19.999,
+          "y": 29.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 20.749,
+          "y": 29.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 21.499,
+          "y": 29.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 22.249,
+          "y": 29.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 22.999,
+          "y": 29.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 23.748,
+          "y": 29.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 24.498,
+          "y": 29.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 25.248,
+          "y": 29.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 25.998,
+          "y": 29.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 26.748,
+          "y": 29.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 27.498,
+          "y": 29.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 28.247,
+          "y": 29.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 28.997,
+          "y": 29.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 29.747,
+          "y": 29.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 30.454,
+          "y": 29.072,
+          "w": 1.222,
+          "text": "C ."
+        },
+        {
+          "x": 6.95,
+          "y": 29.822,
+          "w": 1.222,
+          "text": "D."
+        },
+        {
+          "x": 7.637,
+          "y": 29.822,
+          "w": 13.415,
+          "text": "Maximum standard deduction. If"
+        },
+        {
+          "x": 15.183,
+          "y": 29.822,
+          "w": 2.945,
+          "text": "single,"
+        },
+        {
+          "x": 16.84,
+          "y": 29.822,
+          "w": 6.388,
+          "text": "enter $5,800; if"
+        },
+        {
+          "x": 20.433,
+          "y": 29.822,
+          "w": 9.5,
+          "text": "married filing jointly,"
+        },
+        {
+          "x": 25.777,
+          "y": 29.822,
+          "w": 5.749,
+          "text": "enter $11,600"
+        },
+        {
+          "x": 29.75,
+          "y": 29.822,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 30.456,
+          "y": 29.822,
+          "w": 1.222,
+          "text": "D ."
+        },
+        {
+          "x": 6.95,
+          "y": 30.572,
+          "w": 1.167,
+          "text": "E."
+        },
+        {
+          "x": 7.606,
+          "y": 30.572,
+          "w": 3.888,
+          "text": "Enter the"
+        },
+        {
+          "x": 9.793,
+          "y": 30.572,
+          "w": 3.416,
+          "text": "smaller"
+        },
+        {
+          "x": 11.715,
+          "y": 30.572,
+          "w": 22.886,
+          "text": "of line C or line D here. This is your standard deduction ."
+        },
+        {
+          "x": 25.198,
+          "y": 30.572,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 25.947,
+          "y": 30.572,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 26.697,
+          "y": 30.572,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 27.447,
+          "y": 30.572,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 28.197,
+          "y": 30.572,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 28.947,
+          "y": 30.572,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 29.696,
+          "y": 30.572,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 30.47,
+          "y": 30.572,
+          "w": 1.167,
+          "text": "E ."
+        },
+        {
+          "x": 6.95,
+          "y": 31.322000000000003,
+          "w": 1.111,
+          "text": "F."
+        },
+        {
+          "x": 7.575,
+          "y": 31.322000000000003,
+          "w": 7.889,
+          "text": "Exemption amount."
+        },
+        {
+          "x": 7.85,
+          "y": 32.071,
+          "w": 8.32,
+          "text": "• If single, enter -0-."
+        },
+        {
+          "x": 7.85,
+          "y": 32.822,
+          "w": 12.849,
+          "text": "• If married filing jointly and —"
+        },
+        {
+          "x": 8.288,
+          "y": 33.572,
+          "w": 27.772,
+          "text": "—both you and your spouse can be claimed as dependents, enter -0-."
+        },
+        {
+          "x": 8.288,
+          "y": 34.322,
+          "w": 25.439,
+          "text": "—only one of you can be claimed as a dependent, enter $3,700."
+        },
+        {
+          "x": 29.539,
+          "y": 33.282,
+          "w": 0.48,
+          "text": "}"
+        },
+        {
+          "x": 30.488,
+          "y": 32.822,
+          "w": 1.111,
+          "text": "F ."
+        },
+        {
+          "x": 6.95,
+          "y": 35.072,
+          "w": 1.278,
+          "text": "G."
+        },
+        {
+          "x": 7.669,
+          "y": 35.072,
+          "w": 25.969,
+          "text": "Add lines E and F. Enter the total here and on line 5 on the front"
+        },
+        {
+          "x": 23,
+          "y": 35.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 23.75,
+          "y": 35.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 24.499,
+          "y": 35.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 25.249,
+          "y": 35.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 25.999,
+          "y": 35.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 26.749,
+          "y": 35.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 27.499,
+          "y": 35.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 28.248,
+          "y": 35.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 28.998,
+          "y": 35.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 29.748,
+          "y": 35.072,
+          "w": 0.25,
+          "text": "."
+        },
+        {
+          "x": 30.439,
+          "y": 35.072,
+          "w": 1.278,
+          "text": "G ."
+        },
+        {
+          "x": 6.95,
+          "y": 36.572,
+          "w": 17.058,
+          "text": "If you did not check any boxes on line 5,"
+        },
+        {
+          "x": 16.545,
+          "y": 36.572,
+          "w": 24.137,
+          "text": "enter on line 5 the amount shown below that applies to you."
+        },
+        {
+          "x": 6.95,
+          "y": 37.322,
+          "w": 42.429,
+          "text": "• Single, enter $9,500. This is the total of your standard deduction ($5,800) and your exemption ($3,700)."
+        },
+        {
+          "x": 6.95,
+          "y": 38.147,
+          "w": 49.623,
+          "text": "• Married filing jointly, enter $19,000. This is the total of your standard deduction ($11,600), your exemption ($3,700), and"
+        },
+        {
+          "x": 6.95,
+          "y": 38.822,
+          "w": 13.762,
+          "text": "your spouse's exemption ($3,700)."
+        },
+        {
+          "x": 2,
+          "y": 40.639,
+          "w": 3.6,
+          "text": "Mailing"
+        },
+        {
+          "x": 2,
+          "y": 41.389,
+          "w": 3,
+          "text": "Return"
+        },
+        {
+          "x": 6.95,
+          "y": 40.997,
+          "w": 8.11,
+          "text": "Mail your return by"
+        },
+        {
+          "x": 11.512,
+          "y": 40.997,
+          "w": 6.528,
+          "text": "April 17, 2012."
+        },
+        {
+          "x": 15.184,
+          "y": 40.997,
+          "w": 25.526,
+          "text": "Mail it to the address shown on the last page of the instructions."
+        },
+        {
+          "x": 31.086,
+          "y": 42.588,
+          "w": 2.612,
+          "text": "Form"
+        },
+        {
+          "x": 32.229,
+          "y": 42.588,
+          "w": 3.52,
+          "text": "1040EZ"
+        },
+        {
+          "x": 34.429,
+          "y": 42.588,
+          "w": 3.02,
+          "text": "(2011)"
+        }
+      ],
+      "Fields": [
+        {
+          "id": "f2_001_0_",
+          "x": 22.05,
+          "y": 27,
+          "w": 4.5,
+          "value": null
+        },
+        {
+          "id": "f2_002_0_",
+          "x": 31.5,
+          "y": 27.75,
+          "w": 4.5,
+          "value": null
+        },
+        {
+          "id": "B950_0_",
+          "x": 31.5,
+          "y": 28.5,
+          "w": 4.5,
+          "value": "950.00"
+        },
+        {
+          "id": "f2_003_0_",
+          "x": 31.5,
+          "y": 29.25,
+          "w": 4.5,
+          "value": null
+        },
+        {
+          "id": "f2_004_0_",
+          "x": 31.5,
+          "y": 30,
+          "w": 4.5,
+          "value": null
+        },
+        {
+          "id": "f2_005_0_",
+          "x": 31.5,
+          "y": 30.75,
+          "w": 4.5,
+          "value": null
+        },
+        {
+          "id": "f2_006_0_",
+          "x": 31.5,
+          "y": 33,
+          "w": 4.5,
+          "value": null
+        },
+        {
+          "id": "f2_007_0_",
+          "x": 31.5,
+          "y": 35.25,
+          "w": 4.5,
+          "value": null
+        }
+      ]
+    }
+  ],
+  "Meta": {
+    "PDFFormatVersion": "1.7",
+    "IsAcroFormPresent": true,
+    "IsXFAPresent": false,
+    "Title": "2011 Form 1040EZ",
+    "Author": "SE:W:CAR:MP",
+    "Subject": "Income Tax Return for Single and Joint Filers With No Dependents",
+    "Keywords": "Fillable",
+    "Creator": "Adobe LiveCycle Designer ES 8.2",
+    "Producer": "macOS Version 13.6.3 (Build 22G436) Quartz PDFContext, AppendMode 1.1",
+    "CreationDate": "D:20090424101939Z00'00'",
+    "ModDate": "D:20240112021949Z00'00'",
+    "Metadata": {
+      "dc:format": "application/pdf",
+      "dc:description": "Income Tax Return for Single and Joint Filers With No Dependents",
+      "dc:creator": "SE:W:CAR:MP",
+      "dc:title": "2011 Form 1040EZ",
+      "dc:subject": "Fillable",
+      "xmp:createdate": "2009-04-24T10:19:39Z",
+      "xmp:creatortool": "Adobe LiveCycle Designer ES 8.2",
+      "xmp:modifydate": "2012-09-27T17:22:42-07:00",
+      "xmp:metadatadate": "2012-09-27T17:22:42-07:00",
+      "pdf:producer": "Adobe LiveCycle Designer ES 8.2",
+      "pdf:keywords": "Fillable",
+      "xmpmm:documentid": "uuid:11933e2b-578b-4963-a7a4-28766e7051a0",
+      "xmpmm:instanceid": "uuid:2c1954ee-8a6d-d141-8a3a-4ac85ce6bf2c",
+      "adhocwf:state": "1",
+      "adhocwf:version": "1.1"
+    }
+  }
+}
